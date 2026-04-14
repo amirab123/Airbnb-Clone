@@ -1,16 +1,40 @@
-# React + Vite
+Airbnb Clone (React + Tailwind CSS)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Un clone d’Airbnb développé avec React.js et Tailwind CSS, permettant de consulter des logements, voir leurs détails et effectuer des réservations avec une interface moderne, rapide et responsive.
 
-Currently, two official plugins are available:
+🚀 Fonctionnalités
+🏠 Liste des logements disponibles
+🔎 Filtrage par ville et prix
+📄 Page détail de chaque logement
+📝 Système de réservation avec formulaire
+🎉 Toast de confirmation moderne
+🔁 Redirection après confirmation
+🎨 Interface moderne et responsive (style Airbnb)
+🛠️ Technologies utilisées
+React.js
+React Router DOM
+Tailwind CSS
+JavaScript (ES6+)
+📂 Pages du projet
+Home (liste des logements)
+Detail (détails logement)
+Reservation (formulaire de réservation)
+🎯 Objectif
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Ce projet a été réalisé dans un but d’apprentissage afin de maîtriser :
 
-## React Compiler
+le routing avec React Router
+la gestion des états (useState)
+la création d’interfaces modernes avec Tailwind CSS
+l’expérience utilisateur (UX)
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+<img width="1874" height="873" alt="image" src="https://github.com/user-attachments/assets/4ab7e613-87d6-4658-a0a1-0065be55499d" />
+<img width="1866" height="854" alt="image" src="https://github.com/user-attachments/assets/f7650add-51aa-44d7-8d5e-5080e2495799" />
+<img width="1189" height="765" alt="image" src="https://github.com/user-attachments/assets/a4bde5d6-922c-420f-9e9a-83b337b06da5" />
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+Développé par Amira ✨
+Projet étudiant en intégration web
